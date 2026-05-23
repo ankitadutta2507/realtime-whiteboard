@@ -91,10 +91,14 @@ This project helped me gain hands-on experience with real-time application devel
 
 
 Company Name: Codtech IT Solutions Private Limited
-Name: Ankita Dutta
-Intern Id: CTIS9009
-Domain: Mern Stack Web Development
-Duration: 4 Weeks
-Mentor: Neela Santhosh Kumar
+Name: Ankita Dutta.
+
+Intern Id: CTIS9009.
+
+Domain: Mern Stack Web Development.
+
+Duration: 4 Weeks.
+
+Mentor: Neela Santhosh Kumar.
 
 Output: <img width="1907" height="1003" alt="Image" src="https://github.com/user-attachments/assets/0eb03574-64be-41a3-8b37-959da0adbcf4" />
